@@ -1,0 +1,30 @@
+2024-10-19 11:40:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Roshan_Sawkar\eclipse-workspace\OpencartV121\master.xml"
+2024-10-19 11:40:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Roshan_Sawkar\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-19 11:40:27 INFO  TC001_AccountRegistrationTest:15 - ******** Starting TC001_AccountRegistrationTest ********* 
+2024-10-19 11:40:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-10-19 11:40:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on register link
+2024-10-19 11:40:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details
+2024-10-19 11:40:29 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2024-10-19 11:40:29 INFO  TC001_AccountRegistrationTest:61 - ******** Finished TC001_AccountRegistrationTest ********* 
+2024-10-19 11:40:35 INFO  TC002_LoginTest:16 - ********** Starting TC002_LoginTest************
+2024-10-19 11:40:36 INFO  TC002_LoginTest:41 - ********** Finished TC002_LoginTest************
+2024-10-19 11:41:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Roshan_Sawkar\eclipse-workspace\OpencartV121\master.xml"
+2024-10-19 11:41:31 INFO  TC001_AccountRegistrationTest:15 - ******** Starting TC001_AccountRegistrationTest ********* 
+2024-10-19 11:41:32 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-10-19 11:41:32 INFO  TC001_AccountRegistrationTest:24 - Clicked on register link
+2024-10-19 11:41:32 INFO  TC001_AccountRegistrationTest:28 - Providing customer details
+2024-10-19 11:41:33 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2024-10-19 11:41:33 INFO  TC001_AccountRegistrationTest:61 - ******** Finished TC001_AccountRegistrationTest ********* 
+2024-10-19 11:41:40 INFO  TC002_LoginTest:16 - ********** Starting TC002_LoginTest************
+2024-10-19 11:41:41 INFO  TC002_LoginTest:41 - ********** Finished TC002_LoginTest************
+2024-10-19 20:22:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Roshan_Sawkar\eclipse-workspace\OpencartV121\master.xml"
+2024-10-19 20:22:30 INFO  TC001_AccountRegistrationTest:15 - ******** Starting TC001_AccountRegistrationTest ********* 
+2024-10-19 20:22:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-10-19 20:22:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on register link
+2024-10-19 20:22:31 INFO  TC001_AccountRegistrationTest:28 - Providing customer details
+2024-10-19 20:22:32 INFO  TC001_AccountRegistrationTest:41 - Validating expected message
+2024-10-19 20:22:32 INFO  TC001_AccountRegistrationTest:61 - ******** Finished TC001_AccountRegistrationTest ********* 
+2024-10-19 20:22:37 INFO  TC002_LoginTest:16 - ********** Starting TC002_LoginTest************
+2024-10-19 20:22:39 INFO  TC002_LoginTest:41 - ********** Finished TC002_LoginTest************
